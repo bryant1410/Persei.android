@@ -1,4 +1,4 @@
-#Persei
+# Persei
 ==========================
 
 Yalantis公司出品的开源库，动画这块做的非常漂亮，如果你不信的话，可以去瞧瞧[Yalantis](https://github.com/Yalantis)，我在其中看到了一个名为[Persei](https://github.com/Yalantis/Persei)的开源库，用Swift写的，查了下，竟然没有android的版本的，呵呵然后就想写写了，毕竟看起来很炫酷...
